@@ -1,1 +1,3 @@
-greeting = "Hello World"
+def greeting
+  greeting = "Hello World"
+end
